@@ -1,0 +1,17 @@
+*~
+*.npy
+*.swp
+*.swo
+*.swn
+__pycache__/
+logs/
+kuka_dataset/
+*.pkl
+*.tar.gz
+logs*
+uncond_samples/
+cond_samples/
+miniconda/
+log*
+outputs/
+*.png
